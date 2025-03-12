@@ -1,0 +1,16 @@
+nav{
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+  }
+}
+.active{
+  color: #341162;
+  font-weight: bold;
+}
